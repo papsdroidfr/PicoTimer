@@ -18,5 +18,5 @@ Lorsqu'il démarre, la led clignote en vert, puis clignote en rouge s'il reste m
 * 1 PICO display 1.14" de Pimoroni (avec écran LCD, 1 led RGB et 4 boutons poussoirs intégrés)
 
 
-
+Tutoriel complet détaillé dans cet [article](https://www.papsdroid.fr/post/picotimer)
 
