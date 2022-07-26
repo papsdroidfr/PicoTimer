@@ -14,7 +14,7 @@ Lorsqu'il démarre, la led clignote en vert, puis clignote en rouge s'il reste m
 
 ## Matériel utilisé:
 * 1 Raspberry PICO
-* 1 buzzer actif
+* 1 buzzer passif
 * 1 PICO display 1.14" de Pimoroni (avec écran LCD, 1 led RGB et 4 boutons poussoirs intégrés)
 
 
